@@ -1,0 +1,77 @@
+body{
+background-image: url("atom.png");
+background-repeat: no-repeat;
+background-size: 100%;
+background-color: #588579;
+}
+#lista1{
+	background-color: #333333;
+	padding:10px;
+	margin-top:0%;
+	margin-left:93%;
+}
+#slika{
+	margin-left:0%;
+	margin-top:-5px;
+	height:0px;
+	width:1910px;
+	border-bottom: 8px solid #b5b055;
+	border-radius:3px;
+}
+#sajt{
+	margin-top:-600px;
+	margin-left:93%;
+	font-size:20px;
+	color:pink;
+}
+h1{
+	padding-top:7px;
+	color:white;
+	margin-top:12%;
+	font-family: "Aldrich";
+}
+
+img{
+	
+	width:100px;
+	height:100px;
+	border: 1px solid #ddd;
+	border-radius: 50%;
+}
+#at1{
+	padding-left:10px;
+	border-left: 6px solid #b5b055;
+	border-radius:8px;
+	width:650px;
+	display:block;
+	margin-top:0%;
+	color:white;
+	font-size:18px;
+	font-family:"Verdana";
+}
+#at2{
+	padding-left:10px;
+	border-radius:8px;
+	border-left: 6px solid #b5b055;
+	width:800px;
+	display:block;
+	margin-top:-14%;
+	margin-left:50%;
+	color:white;
+	font-size:24px;
+	font-family:"Verdana";
+}
+#lista2{
+	padding:10px;
+	font-size:22px;
+	
+}
+li{
+	
+	display:inline-table;
+	padding-right:70px;
+	padding-bottom:25px;
+}
+
+
+
